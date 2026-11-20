@@ -1,4 +1,4 @@
-# Menu-Driven Student Information System 
+Student Information System 
 students = {} 
 def add_student(): 
     roll = input("Enter Roll No: ") 
